@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Alexis - Space of Model"
+title = "Alexis - Model Space"
 
 # Theme-specific variables `.Site.Params.myParamName`
 [params]
